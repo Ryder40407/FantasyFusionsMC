@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fantasy_fusions:blocks/towhine_ore_oak",
+    "particle": "fantasy_fusions:blocks/towhine_ore_oak"
+  }
+}

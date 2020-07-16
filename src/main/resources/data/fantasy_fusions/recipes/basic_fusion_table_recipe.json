@@ -1,0 +1,42 @@
+{
+  "group": "fantasy_fusions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:planks"
+    },
+    "1": {
+      "tag": "minecraft:planks"
+    },
+    "2": {
+      "tag": "minecraft:planks"
+    },
+    "3": {
+      "item": "minecraft:cobblestone"
+    },
+    "4": {
+      "item": "minecraft:crafting_table"
+    },
+    "5": {
+      "item": "minecraft:cobblestone"
+    },
+    "6": {
+      "item": "minecraft:cobblestone"
+    },
+    "7": {
+      "item": "minecraft:furnace"
+    },
+    "8": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "fantasy_fusions:basic_fusion_table",
+    "count": 1
+  }
+}

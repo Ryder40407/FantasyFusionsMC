@@ -1,0 +1,1026 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "FFtabOres",
+      "type": "tab",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "f_ftab_ores"
+    },
+    {
+      "name": "FFtabMain",
+      "type": "tab",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "f_ftab_main"
+    },
+    {
+      "name": "FFtabTools",
+      "type": "tab",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "f_ftab_tools"
+    },
+    {
+      "name": "TowhineOreOak",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "towhine_ore_oak"
+    },
+    {
+      "name": "TowhineLeaf",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "towhine_leaf"
+    },
+    {
+      "name": "CrackiumCrystal",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crackium_crystal"
+    },
+    {
+      "name": "WauviunCrystal",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wauviun_crystal"
+    },
+    {
+      "name": "SkycraitCrystal",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skycrait_crystal"
+    },
+    {
+      "name": "SrivuiteDust",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "srivuite_dust"
+    },
+    {
+      "name": "NetreikLeaf",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netreik_leaf"
+    },
+    {
+      "name": "DraciumiteCrystal",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "draciumite_crystal"
+    },
+    {
+      "name": "BrakaiteRock",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brakaite_rock"
+    },
+    {
+      "name": "TowhineOreBirch",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "towhine_ore_birch"
+    },
+    {
+      "name": "TowhineOreJungle",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "towhine_ore_jungle"
+    },
+    {
+      "name": "CrackiumOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crackium_ore"
+    },
+    {
+      "name": "WauviunOre",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wauviun_ore"
+    },
+    {
+      "name": "SkycraitOre",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skycrait_ore"
+    },
+    {
+      "name": "SrivuiteOre",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "srivuite_ore"
+    },
+    {
+      "name": "NetreikOre",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netreik_ore"
+    },
+    {
+      "name": "DraciumiteOre",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "draciumite_ore"
+    },
+    {
+      "name": "BrakaiteOre",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brakaite_ore"
+    },
+    {
+      "name": "TempPickaxe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temp_pickaxe"
+    },
+    {
+      "name": "TempAxe",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temp_axe"
+    },
+    {
+      "name": "TempShovel",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temp_shovel"
+    },
+    {
+      "name": "FreorhiltOre",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "freorhilt_ore"
+    },
+    {
+      "name": "BasicFusionTable",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basic_fusion_table"
+    },
+    {
+      "name": "AdvancedFusionTable",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "advanced_fusion_table"
+    },
+    {
+      "name": "BasicFusionTableGUI",
+      "type": "gui",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basic_fusion_table_gui"
+    },
+    {
+      "name": "AdvancedFusionTableGUI",
+      "type": "gui",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "advanced_fusion_table_gui"
+    },
+    {
+      "name": "BasicFusionTableRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basic_fusion_table_recipe"
+    },
+    {
+      "name": "AdvancedFusionTableRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "advanced_fusion_table_recipe"
+    },
+    {
+      "name": "BasicFusionTableRecipies",
+      "type": "procedure",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basic_fusion_table_recipies",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FusionCrystalSLT",
+      "type": "procedure",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fusion_crystal_slt",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FusionCrystalSmallTemple",
+      "type": "structure",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fusion_crystal_small_temple"
+    },
+    {
+      "name": "AdvancedFusionTableRecipies",
+      "type": "procedure",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "advanced_fusion_table_recipies",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TawhiumIngot",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tawhium_ingot"
+    },
+    {
+      "name": "FreorhiltIngot",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "freorhilt_ingot"
+    },
+    {
+      "name": "FurilionIngot",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "furilion_ingot"
+    },
+    {
+      "name": "FreorhiltIngotSmelt",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "freorhilt_ingot_smelt"
+    },
+    {
+      "name": "FraothilIngot",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fraothil_ingot"
+    },
+    {
+      "name": "FraothilOre",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fraothil_ore"
+    },
+    {
+      "name": "XecsiteIngot",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xecsite_ingot"
+    },
+    {
+      "name": "FraothilIngotSmelt",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fraothil_ingot_smelt"
+    },
+    {
+      "name": "XecsitePickaxe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xecsite_pickaxe"
+    },
+    {
+      "name": "XecsiteShovel",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xecsite_shovel"
+    },
+    {
+      "name": "XecsitePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xecsite_pickaxe_recipe"
+    },
+    {
+      "name": "XecsiteShovelRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xecsite_shovel_recipe"
+    },
+    {
+      "name": "XecsiteSword",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xecsite_sword"
+    },
+    {
+      "name": "XecsiteSwordRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xecsite_sword_recipe"
+    },
+    {
+      "name": "XecsiteHoe",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xecsite_hoe"
+    },
+    {
+      "name": "XecsiteAxe",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xecsite_axe"
+    },
+    {
+      "name": "XecsiteAxeRecipeL",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xecsite_axe_recipe_l"
+    },
+    {
+      "name": "XecsiteAxeRecipeR",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xecsite_axe_recipe_r"
+    },
+    {
+      "name": "XecsiteHoeRecipeL",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xecsite_hoe_recipe_l"
+    },
+    {
+      "name": "XecsiteHoeRecipeR",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xecsite_hoe_recipe_r"
+    },
+    {
+      "name": "FlorithiteIngot",
+      "type": "item",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "florithite_ingot"
+    },
+    {
+      "name": "OreingetinForest",
+      "type": "biome",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oreingetin_forest"
+    },
+    {
+      "name": "SkylandsHeights",
+      "type": "biome",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skylands_heights"
+    },
+    {
+      "name": "SkylandsBush1",
+      "type": "structure",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skylands_bush_1"
+    },
+    {
+      "name": "SkylandsTree1",
+      "type": "structure",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skylands_tree_1"
+    },
+    {
+      "name": "SkylandsTree2",
+      "type": "structure",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skylands_tree_2"
+    },
+    {
+      "name": "SkylandsTree3",
+      "type": "structure",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skylands_tree_3"
+    },
+    {
+      "name": "SkylandsHeightsDioriteSpawn",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skylands_heights_diorite_spawn"
+    },
+    {
+      "name": "SilvikeOre",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silvike_ore"
+    },
+    {
+      "name": "DuokiteOre",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "duokite_ore"
+    },
+    {
+      "name": "SilvikeIngot",
+      "type": "item",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silvike_ingot"
+    },
+    {
+      "name": "DuokiteIngot",
+      "type": "item",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "duokite_ingot"
+    },
+    {
+      "name": "SilvikeIngotSmelt",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silvike_ingot_smelt"
+    },
+    {
+      "name": "DuokiteIngotSmelt",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "duokite_ingot_smelt"
+    },
+    {
+      "name": "TrikiteIngot",
+      "type": "item",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trikite_ingot"
+    },
+    {
+      "name": "SilvikeSword",
+      "type": "tool",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silvike_sword"
+    },
+    {
+      "name": "SilvikePickaxe",
+      "type": "tool",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silvike_pickaxe"
+    },
+    {
+      "name": "SilvikeHoe",
+      "type": "tool",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silvike_hoe"
+    },
+    {
+      "name": "SilvikeAxe",
+      "type": "tool",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silvike_axe"
+    },
+    {
+      "name": "SilvikeShovel",
+      "type": "tool",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silvike_shovel"
+    },
+    {
+      "name": "SilvikePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silvike_pickaxe_recipe"
+    },
+    {
+      "name": "SilvikeShovelRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silvike_shovel_recipe"
+    },
+    {
+      "name": "SilvikeSwordRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silvike_sword_recipe"
+    },
+    {
+      "name": "SilvikeAxeRecipeL",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silvike_axe_recipe_l"
+    },
+    {
+      "name": "SilvikeAxeRecipeR",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silvike_axe_recipe_r"
+    },
+    {
+      "name": "SilvikeHoeRecipeR",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silvike_hoe_recipe_r"
+    },
+    {
+      "name": "SilvikeHoeRecipeL",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silvike_hoe_recipe_l"
+    },
+    {
+      "name": "TrikiteSword",
+      "type": "tool",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trikite_sword"
+    },
+    {
+      "name": "TrikitePickaxe",
+      "type": "tool",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trikite_pickaxe"
+    },
+    {
+      "name": "TrikiteHoe",
+      "type": "tool",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trikite_hoe"
+    },
+    {
+      "name": "TrikiteAxe",
+      "type": "tool",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trikite_axe"
+    },
+    {
+      "name": "TrikiteShovel",
+      "type": "tool",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trikite_shovel"
+    },
+    {
+      "name": "TrikitePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trikite_pickaxe_recipe"
+    },
+    {
+      "name": "TrikiteShovelRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trikite_shovel_recipe"
+    },
+    {
+      "name": "TrikiteSwordRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trikite_sword_recipe"
+    },
+    {
+      "name": "TrikiteAxeRecipeL",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trikite_axe_recipe_l"
+    },
+    {
+      "name": "TrikiteAxeRecipeR",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trikite_axe_recipe_r"
+    },
+    {
+      "name": "TrikiteHoeRecipeL",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trikite_hoe_recipe_l"
+    },
+    {
+      "name": "TrikiteHoeRecipeR",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trikite_hoe_recipe_r"
+    },
+    {
+      "name": "TestArmor",
+      "type": "armor",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "RedDesert",
+      "type": "biome",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_desert"
+    },
+    {
+      "name": "OreingetinHills",
+      "type": "biome",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oreingetin_hills"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.fantasy_fusions.trikite_axe": "Silvike Axe",
+      "item.fantasy_fusions.trikite_pickaxe": "Silvike Pickaxe",
+      "item.fantasy_fusions.silvike_axe": "Silvike Axe",
+      "item.fantasy_fusions.xecsite_sword": "Xecsite Sword",
+      "item.fantasy_fusions.fraothil_ingot": "Fraothil Ingot",
+      "item.fantasy_fusions.duokite_ingot": "Duokite Ingot",
+      "item.fantasy_fusions.skycrait_crystal": "Skycrait Crystal",
+      "item.fantasy_fusions.temp_pickaxe": "Temp Pickaxe",
+      "item.fantasy_fusions.tawhium_ingot": "Tawhium Ingot",
+      "item.fantasy_fusions.silvike_sword": "Silvike Sword",
+      "item.fantasy_fusions.furilion_ingot": "Tawhium Ingot",
+      "item.fantasy_fusions.srivuite_dust": "Srivuite Dust",
+      "block.fantasy_fusions.towhine_ore_jungle": "Towhine Jungle Ore ",
+      "block.fantasy_fusions.srivuite_ore": "Srivuite Sand",
+      "block.fantasy_fusions.freorhilt_ore": "Freorhilt Ore",
+      "block.fantasy_fusions.draciumite_ore": "Srivuite Sand",
+      "block.fantasy_fusions.advanced_fusion_table": "Advanced Fusion Table",
+      "itemGroup.tabf_ftab_tools": "F Ftab Tools",
+      "block.fantasy_fusions.towhine_ore_oak": "Towhine Oak Ore ",
+      "item.fantasy_fusions.xecsite_shovel": "Xecsite Shovel",
+      "item.fantasy_fusions.xecsite_axe": "Xecsite Axe",
+      "itemGroup.tabf_ftab_main": "F Ftab Main",
+      "block.fantasy_fusions.skycrait_ore": "Skycrait Ore",
+      "block.fantasy_fusions.netreik_ore": "Srivuite Sand",
+      "item.fantasy_fusions.crackium_crystal": "Crackium Crystal",
+      "item.fantasy_fusions.wauviun_crystal": "Wauviun Crystal",
+      "item.fantasy_fusions.test_armorhelmet": "Test Armor Helmet",
+      "item.fantasy_fusions.brakaite_rock": "Brakaite Rock",
+      "item.fantasy_fusions.trikite_shovel": "Silvike Axe",
+      "block.fantasy_fusions.brakaite_ore": "Srivuite Sand",
+      "item.fantasy_fusions.silvike_pickaxe": "Silvike Pickaxe",
+      "item.fantasy_fusions.trikite_sword": "Trikite Sword",
+      "item.fantasy_fusions.test_armorboots": "Test Armor Boots",
+      "block.fantasy_fusions.skylands_heights_diorite_spawn": "Skylands Heights Diorite Spawn",
+      "block.fantasy_fusions.towhine_ore_birch": "Towhine Birch Ore ",
+      "item.fantasy_fusions.xecsite_pickaxe": "Xecsite Pickaxe",
+      "item.fantasy_fusions.test_armorlegs": "Test Armor Leggings",
+      "itemGroup.tabf_ftab_ores": "FF Ores",
+      "item.fantasy_fusions.test_armorbody": "Test Armor Body",
+      "item.fantasy_fusions.trikite_hoe": "Silvike Hoe",
+      "block.fantasy_fusions.silvike_ore": "Silvike Ore",
+      "item.fantasy_fusions.freorhilt_ingot": "Tawhium Ingot",
+      "block.fantasy_fusions.duokite_ore": "Duokite Ore",
+      "item.fantasy_fusions.silvike_hoe": "Silvike Hoe",
+      "item.fantasy_fusions.florithite_ingot": "Florithite Ingot",
+      "item.fantasy_fusions.netreik_leaf": "Netreik Leaf",
+      "block.fantasy_fusions.basic_fusion_table": "Basic Fusion Table",
+      "item.fantasy_fusions.trikite_ingot": "Trikite Ingot",
+      "item.fantasy_fusions.silvike_shovel": "Silvike Axe",
+      "item.fantasy_fusions.temp_shovel": "Temp Axe",
+      "item.fantasy_fusions.silvike_ingot": "Silvike Ingot",
+      "item.fantasy_fusions.towhine_leaf": "Towhine Leaf",
+      "item.fantasy_fusions.xecsite_ingot": "Xecsite Ingot",
+      "item.fantasy_fusions.temp_axe": "Temp Axe",
+      "block.fantasy_fusions.fraothil_ore": "Fraothil Ore",
+      "item.fantasy_fusions.xecsite_hoe": "Xecsite Hoe",
+      "item.fantasy_fusions.draciumite_crystal": "Draciumite Crystal",
+      "block.fantasy_fusions.wauviun_ore": "Wauviun Ore",
+      "block.fantasy_fusions.crackium_ore": "Crackium Ore"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "fantasy_fusions",
+    "modName": "Fantasy Fusions",
+    "version": "1.0.0",
+    "author": "JesusChrist, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.fantasyfusions",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000428114
+}

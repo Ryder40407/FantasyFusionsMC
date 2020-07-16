@@ -1,0 +1,30 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "xecsite_axe",
+    "customModelName": "Normal",
+    "name": "Xecsite Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:FFtabTools"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 6.0,
+    "attackSpeed": 1.0,
+    "enchantability": 15,
+    "damageVsEntity": 4.0,
+    "usageCount": 237,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:XecsiteIngot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

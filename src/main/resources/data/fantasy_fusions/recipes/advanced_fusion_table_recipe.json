@@ -1,0 +1,42 @@
+{
+  "group": "fantasy_fusions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_block"
+    },
+    "1": {
+      "item": "minecraft:iron_block"
+    },
+    "2": {
+      "item": "minecraft:iron_block"
+    },
+    "3": {
+      "item": "fantasy_fusions:towhine_leaf"
+    },
+    "4": {
+      "item": "fantasy_fusions:basic_fusion_table"
+    },
+    "5": {
+      "item": "fantasy_fusions:wauviun_crystal"
+    },
+    "6": {
+      "item": "fantasy_fusions:crackium_crystal"
+    },
+    "7": {
+      "item": "fantasy_fusions:basic_fusion_table"
+    },
+    "8": {
+      "item": "fantasy_fusions:srivuite_dust"
+    }
+  },
+  "result": {
+    "item": "fantasy_fusions:advanced_fusion_table",
+    "count": 1
+  }
+}

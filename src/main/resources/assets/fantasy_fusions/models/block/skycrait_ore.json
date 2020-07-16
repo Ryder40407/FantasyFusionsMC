@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fantasy_fusions:blocks/skycrait_ore",
+    "particle": "fantasy_fusions:blocks/skycrait_ore"
+  }
+}

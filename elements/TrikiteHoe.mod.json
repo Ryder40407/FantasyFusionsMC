@@ -1,0 +1,30 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "trikite_hoe",
+    "customModelName": "Normal",
+    "name": "Silvike Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:FFtabTools"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 3,
+    "efficiency": 7.5,
+    "attackSpeed": 1.0,
+    "enchantability": 13,
+    "damageVsEntity": 4.0,
+    "usageCount": 1275,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:TrikiteIngot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

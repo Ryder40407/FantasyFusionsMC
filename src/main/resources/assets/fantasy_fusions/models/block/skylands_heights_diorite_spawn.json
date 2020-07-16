@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fantasy_fusions:blocks/diorite",
+    "particle": "fantasy_fusions:blocks/diorite"
+  }
+}

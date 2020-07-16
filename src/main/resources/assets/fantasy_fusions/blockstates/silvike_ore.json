@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fantasy_fusions:block/silvike_ore"
+    },
+    "facing=east": {
+      "model": "fantasy_fusions:block/silvike_ore",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fantasy_fusions:block/silvike_ore",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasy_fusions:block/silvike_ore",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "fantasy_fusions:block/silvike_ore",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "fantasy_fusions:block/silvike_ore",
+      "x": 90
+    }
+  }
+}

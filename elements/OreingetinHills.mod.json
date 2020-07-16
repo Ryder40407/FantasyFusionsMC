@@ -1,0 +1,95 @@
+{
+  "_fv": 10,
+  "_type": "biome",
+  "definition": {
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "generateLakes": true,
+    "treeType": 0,
+    "vanillaTreeType": "Savanna trees",
+    "minHeight": 7,
+    "spawnVines": true,
+    "treeVines": {
+      "value": "Blocks.VINE"
+    },
+    "treeStem": {
+      "value": "Blocks.LOG2#0"
+    },
+    "treeBranch": {
+      "value": "Blocks.LEAVES#0"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "airColor": {
+      "value": -26368,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -16737946,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -26368,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 2,
+    "grassPerChunk": 21,
+    "flowersPerChunk": 2,
+    "mushroomsPerChunk": 1,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 2,
+    "reedsPerChunk": 1,
+    "cactiPerChunk": 0,
+    "rainingPossibility": 0.7000000000000001,
+    "temperature": 0.5,
+    "baseHeight": 0.5,
+    "heightVariation": 0.7,
+    "spawnBiome": true,
+    "biomeWeight": 12,
+    "biomeType": "WARM",
+    "biomeCategory": "SAVANNA",
+    "parent": {
+      "value": "CUSTOM:OreingetinForest"
+    },
+    "biomeDictionaryTypes": [
+      "SPARSE",
+      "SAVANNA",
+      "MOUNTAIN"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityEnderman"
+        },
+        "minGroup": 1,
+        "maxGroup": 2,
+        "weight": 9,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntitySheep"
+        },
+        "minGroup": 2,
+        "maxGroup": 5,
+        "weight": 5,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityCaveSpider"
+        },
+        "minGroup": 2,
+        "maxGroup": 3,
+        "weight": 20,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

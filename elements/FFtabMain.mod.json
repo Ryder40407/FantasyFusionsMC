@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "F Ftab Main",
+    "icon": {
+      "value": "CUSTOM:NetreikLeaf"
+    },
+    "showSearch": false
+  }
+}

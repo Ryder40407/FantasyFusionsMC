@@ -1,0 +1,46 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "CUSTOM:TowhineLeaf"
+      },
+      {
+        "value": "CUSTOM:BasicFusionTable"
+      },
+      {
+        "value": "CUSTOM:WauviunCrystal"
+      },
+      {
+        "value": "CUSTOM:CrackiumCrystal"
+      },
+      {
+        "value": "CUSTOM:BasicFusionTable"
+      },
+      {
+        "value": "CUSTOM:SrivuiteDust"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AdvancedFusionTable"
+    },
+    "name": "advanced_fusion_table_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "xescite_shovel",
+    "customModelName": "Normal",
+    "name": "Xecsite Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:FFtabTools"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 3,
+    "efficiency": 20.0,
+    "attackSpeed": 1.0,
+    "enchantability": 15,
+    "damageVsEntity": 5.0,
+    "usageCount": 237,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:XecsiteIngot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

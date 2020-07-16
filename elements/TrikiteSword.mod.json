@@ -1,0 +1,30 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "trikite_sword",
+    "customModelName": "Normal",
+    "name": "Trikite Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:FFtabTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 7.5,
+    "attackSpeed": 1.7000000000000002,
+    "enchantability": 13,
+    "damageVsEntity": 5.7,
+    "usageCount": 270,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:TrikiteIngot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

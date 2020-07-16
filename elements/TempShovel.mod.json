@@ -1,0 +1,28 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "god_shovel",
+    "customModelName": "Normal",
+    "name": "Temp Axe",
+    "specialInfo": [
+      "TempShovel"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:FFtabTools"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 15,
+    "efficiency": 6.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 1111,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

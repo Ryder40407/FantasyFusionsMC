@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fantasy_fusions:block/skylands_heights_diorite_spawn"
+    },
+    "facing=east": {
+      "model": "fantasy_fusions:block/skylands_heights_diorite_spawn",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fantasy_fusions:block/skylands_heights_diorite_spawn",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasy_fusions:block/skylands_heights_diorite_spawn",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "fantasy_fusions:block/skylands_heights_diorite_spawn",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "fantasy_fusions:block/skylands_heights_diorite_spawn",
+      "x": 90
+    }
+  }
+}

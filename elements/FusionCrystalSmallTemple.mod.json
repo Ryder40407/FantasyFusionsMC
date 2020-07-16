@@ -1,0 +1,39 @@
+{
+  "_fv": 10,
+  "_type": "structure",
+  "definition": {
+    "structure": "fusiongemschem",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 1250,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.STONE#0"
+      },
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "Blocks.SAND#1"
+      },
+      {
+        "value": "Blocks.DIRT#2"
+      }
+    ],
+    "restrictionBiomes": [],
+    "ignoreBlocks": "STRUCTURE_BLOCK",
+    "onStructureGenerated": {
+      "name": "FusionCrystalSLT"
+    }
+  }
+}

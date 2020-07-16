@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "FF Ores",
+    "icon": {
+      "value": "CUSTOM:SkycraitOre"
+    },
+    "showSearch": true
+  }
+}

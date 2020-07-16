@@ -1,0 +1,30 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "silvike_hoe",
+    "customModelName": "Normal",
+    "name": "Silvike Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:FFtabTools"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 2,
+    "efficiency": 5.5,
+    "attackSpeed": 1.0,
+    "enchantability": 16,
+    "damageVsEntity": 4.0,
+    "usageCount": 270,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SilvikeIngot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

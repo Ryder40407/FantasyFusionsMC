@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fantasy_fusions:blocks/advancedfusiontabletop",
+    "up": "fantasy_fusions:blocks/advancedfusiontabletop",
+    "north": "fantasy_fusions:blocks/advancedfusiontableside2",
+    "east": "fantasy_fusions:blocks/advancedfusiontableside1",
+    "south": "fantasy_fusions:blocks/advancedfusiontableside2",
+    "west": "fantasy_fusions:blocks/advancedfusiontableside1",
+    "particle": "fantasy_fusions:blocks/advancedfusiontabletop"
+  }
+}

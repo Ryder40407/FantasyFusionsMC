@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "F Ftab Tools",
+    "icon": {
+      "value": "CUSTOM:TempPickaxe"
+    },
+    "showSearch": true
+  }
+}
